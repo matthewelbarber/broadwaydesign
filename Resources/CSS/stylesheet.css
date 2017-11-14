@@ -29,9 +29,7 @@ p {
 
 .header {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  height: 400px;
+  height: 300px;
 }
 
 .links {
@@ -53,5 +51,12 @@ p {
   background-color: dimgrey;
   font-family: Helvetica;
   color: white;
+  font-size: 11px;
 
+}
+
+.nav {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
 }
